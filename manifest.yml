@@ -4,5 +4,5 @@ applications:
    random-route: false
    memory: 128M
 services:
- - cloudappdev-cloudant
+ - cloudappdevs-cloudant
  - cloudappdevs-nlu
